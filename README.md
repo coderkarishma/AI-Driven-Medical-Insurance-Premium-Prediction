@@ -42,9 +42,15 @@ This project aims to solve these issues using AI-driven techniques.
 
 ## References
 1."Machine Learning-Based Regression Framework to Predict Health Insurance Premiums" – Keshav Kaushik et al. (2022)
-2."Medical Insurance Cost Prediction using Machine Learning" – Mukund Kulkarni et al. (2022)
-3."Regression Analysis and Prediction of Medical Insurance Cost" – Ayushi Bharti et al. (2022)
+2. "Medical Insurance Cost Prediction using Machine Learning" – Mukund Kulkarni et al. (2022)
+3. "Regression Analysis and Prediction of Medical Insurance Cost" – Ayushi Bharti et al. (2022)
 
 ## Contributors
+
+## How to Run the Project
+### 1. Install required Python libraries using:
+''' pip install pandas numpy scikit-learn pycaret streamlit
+### 2. Run the Streamlit app:
+''' streamlit run app.py
 
 
