@@ -48,9 +48,21 @@ This project aims to solve these issues using AI-driven techniques.
 ## Contributors
 
 ## How to Run the Project
-### 1. Install required Python libraries using:
-''' pip install pandas numpy scikit-learn pycaret streamlit
-### 2. Run the Streamlit app:
-''' streamlit run app.py
+ 1. Install required Python libraries using:
+``` bash 
+pip install pandas numpy scikit-learn pycaret streamlit 
+```
+2. Run the Streamlit app:
+``` bash
+streamlit run app.py
+```
+## Future Scope
+- Enhancing model accuracy with deep learning techniques.
+- Expanding dataset for better generalization.
+- Integrating additional health metrics for more precise predictions.
+  
+ThankYou !!!!!
+
+
 
 
