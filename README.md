@@ -12,11 +12,11 @@ Current medical insurance premium calculation methods have several issues:
 This project aims to solve these issues using AI-driven techniques.
 
 ## Objectives
--**Accurate Pricing:** Predict fair premiums based on health and lifestyle data.
--**Improved Efficiency:** Automate calculations to save time and reduce errors.
--**Fair and Transparent Pricing:** Use real data for fair cost estimation.
--**Better Risk Assessment:** Help insurers make better decisions.
--**Real-Time Predictions:** Quickly process large volumes of data.
+- **Accurate Pricing:** Predict fair premiums based on health and lifestyle data.
+- **Improved Efficiency:** Automate calculations to save time and reduce errors.
+- **Fair and Transparent Pricing:** Use real data for fair cost estimation.
+- **Better Risk Assessment:** Help insurers make better decisions.
+- **Real-Time Predictions:** Quickly process large volumes of data.
 
 ## Methodology
 1. **Data Cleaning:** Prepare and preprocess data for accuracy.
